@@ -50,5 +50,10 @@ span {
     float: left;    
     width:50%;
   }
+
+  .col-md-12{
+    float: left;    
+    width:100%;
+  }
   
 }
